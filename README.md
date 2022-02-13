@@ -1,2 +1,6 @@
 # phpmembersystem
-php kullanarak yapmış olduğum üye sistemi eksiklerim varsa düzeltebilirsiniz.
+
+Sistemde php ve mysql kullandım bütün dosyalar reponun içindedir tek yapmanız gereken,
+kayit adında bir veritabanı oluşturmak ve users.sql dosyasını içeriye aktarmak.
+
+sistemin eksikleri varsa ekleyebilirsiniz.
